@@ -1,4 +1,4 @@
-package vlad00x.skywars.SkyWars.Arena;
+package vlad00x.skywars.World.Arena;
 
 public enum Status {
     EMPTY(),

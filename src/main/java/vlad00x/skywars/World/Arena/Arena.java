@@ -1,4 +1,4 @@
-package vlad00x.skywars.SkyWars.Arena;
+package vlad00x.skywars.World.Arena;
 
 import org.bukkit.Location;
 import org.bukkit.World;
@@ -6,7 +6,7 @@ import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.entity.Player;
 import vlad00x.skywars.Files.Configs;
 import vlad00x.skywars.Manager;
-import vlad00x.skywars.SkyWars.Chests.Chests;
+import vlad00x.skywars.World.Chests.Chests;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -7,7 +7,7 @@ import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.entity.Player;
 import vlad00x.skywars.Files.Configs;
 import vlad00x.skywars.Files.Logger;
-import vlad00x.skywars.SkyWars.Arena.Arena;
+import vlad00x.skywars.World.Arena.Arena;
 
 import java.util.ArrayList;
 

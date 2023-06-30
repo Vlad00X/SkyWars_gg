@@ -1,6 +1,6 @@
 package vlad00x.skywars.Files;
 
-import vlad00x.skywars.Plugin;
+import vlad00x.skywars.SkyWars;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -15,10 +15,10 @@ public class Logger {
     private static File file;
 
     public static void create_log(){
-        file = new File(Plugin.get_instance().getDataFolder(), "report.txt");
+        file = new File(SkyWars.get_instance().getDataFolder(), "report.txt");
         if (! file.exists()){
             file.getParentFile().mkdirs();
-            Plugin.get_instance().saveResource("report.txt", false);
+            SkyWars.get_instance().saveResource("report.txt", false);
         }
     }
 

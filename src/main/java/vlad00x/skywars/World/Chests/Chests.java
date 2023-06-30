@@ -1,4 +1,4 @@
-package vlad00x.skywars.SkyWars.Chests;
+package vlad00x.skywars.World.Chests;
 
 import org.bukkit.World;
 import org.bukkit.configuration.file.FileConfiguration;

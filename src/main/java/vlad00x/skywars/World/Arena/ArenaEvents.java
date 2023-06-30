@@ -1,4 +1,4 @@
-package vlad00x.skywars.SkyWars.Arena;
+package vlad00x.skywars.World.Arena;
 
 import net.kyori.adventure.text.Component;
 import net.kyori.adventure.title.Title;
