@@ -1,0 +1,16 @@
+Chests:
+  - x: 1
+    y: 1
+    z: 1
+    rare: 1
+    capacity: 5
+
+  - x: 2
+    y: 2
+    z: 2
+    rare: 2
+    capacity: 5
+
+
+
+# 1 - the highest     3 - the lowest

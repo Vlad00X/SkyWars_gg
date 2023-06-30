@@ -1,0 +1,7 @@
+name: SkyWars
+version: '${project.version}'
+main: vlad00x.skywars.SkyWars
+api-version: '1.20'
+commands:
+  startgame:
+    usage:
